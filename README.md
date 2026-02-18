@@ -104,36 +104,36 @@
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home Page](screenshot-url-here)
-*Landing page with hero section and featured jobs*
+![Home Page](./screenshots/picture1.PNG)
+*Landing page with hero section*
 
 ### 💼 Job Listings
-![Job Listings](screenshot-url-here)
+![Job Listings](./screenshots/picture2.PNG)
 *Browse and filter available job opportunities*
 
-### 📋 Applied Jobs (User Dashboard)
-![Applied Jobs](screenshot-url-here)
-*Track your job applications and status*
+### 📋 Applied Jobs 
+![Applied Jobs](./screenshots/picture3.PNG)
 
 ### 👤 User Login
-![User Login](screenshot-url-here)
+![User Login](./screenshots/picture4.PNG)
 *Secure authentication for job seekers*
 
 ### 🏢 Recruiter Login
-![Recruiter Login](screenshot-url-here)
+![Recruiter Login](./screenshots/picture5.PNG)
 *Company authentication portal*
 
 ### ➕ Add Job (Recruiter)
-![Add Job](screenshot-url-here)
+![Add Job](./screenshots/picture6.PNG)
 *Post new job openings with rich text editor*
 
 ### 🗂️ Manage Jobs (Recruiter)
-![Manage Jobs](screenshot-url-here)
+![Manage Jobs](./screenshots/picture7.PNG)
 *View and manage all posted jobs*
 
 ### 👥 View Applications (Recruiter)
-![View Applications](screenshot-url-here)
+![View Applications](./screenshots/picture8.PNG)
 *Review and manage candidate applications*
+
 ---
 
 ## 🚀 Getting Started
