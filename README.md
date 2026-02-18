@@ -4,13 +4,12 @@
 
 ![MERN Stack](https://img.shields.io/badge/MERN-Stack-green?style=for-the-badge)
 ![React](https://img.shields.io/badge/React-18-blue?style=for-the-badge&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-Express-green?style=for-the-badge&logo=node.js)
+![Node.js](https://img.shields.io/badge/Node.js-20-green?style=for-the-badge&logo=node.js)
+![Express.js](https://img.shields.io/badge/Express.js-4.x-black?style=for-the-badge&logo=express)
 ![MongoDB](https://img.shields.io/badge/MongoDB-Database-green?style=for-the-badge&logo=mongodb)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-CSS-blue?style=for-the-badge&logo=tailwindcss)
 
 **A Modern, Production-Ready Job Board & Recruitment Management System**
-
-[Live Demo](https://your-demo-link.com) • [Documentation](#documentation) • [Report Bug](https://github.com/ARQUM21/mern-job-portal/issues) • [Request Feature](https://github.com/ARQUM21/mern-job-portal/issues)
 
 </div>
 
@@ -52,14 +51,12 @@
 - ✅ **Browse Jobs** - Search and filter through thousands of job listings
 - 📄 **Easy Applications** - One-click apply with resume upload
 - 📊 **Application Tracking** - Monitor application status in real-time
-- 🔔 **Job Alerts** - Get notified about new opportunities
-- 💼 **Profile Management** - Create and manage professional profile
+
 
 ### 🏢 For Recruiters/Companies
 - 📝 **Post Jobs** - Create detailed job postings with rich text editor
 - 👨‍💼 **Manage Applications** - Review, accept, or reject candidates
 - 📈 **Dashboard Analytics** - Track job performance and applicants
-- 🎯 **Candidate Management** - Organize and filter applications
 - 🔒 **Secure Authentication** - Protected recruiter dashboard
 
 ### 🎨 User Experience
@@ -321,29 +318,6 @@ PUT /api/applications/:id       # Update status (Recruiter only)
 
 ---
 
-## 🎨 Features in Detail
-
-### Job Search & Filtering
-- **Category Filter** - Programming, Design, Marketing, etc.
-- **Location Filter** - Remote, On-site, Hybrid options
-- **Experience Level** - Entry, Mid, Senior positions
-- **Salary Range** - Filter by compensation
-- **Keyword Search** - Find specific job titles
-
-### Application Management
-- **Status Tracking** - Pending, Accepted, Rejected
-- **Resume Management** - Upload and update resume
-- **Application History** - View all past applications
-- **Email Notifications** - Get updates on application status
-
-### Recruiter Dashboard
-- **Job Analytics** - View applicant count and trends
-- **Applicant Screening** - Review candidate profiles
-- **Bulk Actions** - Accept/reject multiple applications
-- **Job Visibility** - Show/hide job postings
-
----
-
 ## 🤝 Contributing
 
 Contributions are what make the open-source community amazing! Any contributions you make are **greatly appreciated**.
@@ -366,13 +340,17 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 **Muhammad Arqum**
 
-- GitHub: [@ARQUM21](https://github.com/ARQUM21)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-@ARQUM21-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ARQUM21)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad_Arqum_Tariq-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadarqumtariq/)
+[![Email](https://img.shields.io/badge/Email-marqum987@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marqum987@gmail.com)
+
+</div>
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - [React Documentation](https://react.dev)
 - [MongoDB Documentation](https://docs.mongodb.com)
@@ -382,12 +360,11 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 
-## 📊 Project Status
+<div align="center">
+  
+![Visitors](https://api.visitorbadge.io/api/visitors?path=ARQUM21%2Fmern-job-portal&label=Visitors&countColor=%23263759&style=for-the-badge)
 
-![GitHub stars](https://img.shields.io/github/stars/ARQUM21/mern-job-portal?style=social)
-![GitHub forks](https://img.shields.io/github/forks/ARQUM21/mern-job-portal?style=social)
-![GitHub issues](https://img.shields.io/github/issues/ARQUM21/mern-job-portal)
-![GitHub license](https://img.shields.io/github/license/ARQUM21/mern-job-portal)
+</div>
 
 ---
 
