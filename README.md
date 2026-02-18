@@ -17,18 +17,20 @@
 
 ## 📋 Table of Contents
 
+## 📋 Table of Contents
+
 - [Overview](#-overview)
 - [Key Features](#-key-features)
-- [Tech Stack](#-tech-stack)
+- [Tech Stack](#️-tech-stack)
 - [Screenshots](#-screenshots)
 - [Getting Started](#-getting-started)
-- [Installation](#-installation)
+- [Installation](#️-installation)
 - [Environment Variables](#-environment-variables)
 - [Project Structure](#-project-structure)
 - [API Documentation](#-api-documentation)
 - [Contributing](#-contributing)
 - [License](#-license)
-- [Contact](#-contact)
+- [Author](#author)
 
 ---
 
@@ -336,7 +338,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Muhammad Arqum**
 
