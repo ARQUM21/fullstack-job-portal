@@ -226,7 +226,7 @@ npm run dev
 ### Backend (.env)
 ```env
 # Database
-MONGODB_URI=mongodb+srv://username:password@cluster.mongodb.net/jobportal
+MONGODB_URI=your_mongodb_link
 
 # Authentication
 JWT_SECRET=your_super_secret_jwt_key_here
